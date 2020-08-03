@@ -1,0 +1,9 @@
+//variáveis usadas no meu Sass
+$cor-padrao: darken(#c24e4b, 17.5%);//darken(#c24e4b, 0) -> volta p/ cor original
+$cor-branca: saturate(#fff, 12.5%); //$cor-branca: invert(#fff); //$cor-branca: complement(#fff); //$cor-branca: saturate(#fff, 12.5%); 
+$raio: 0.3em;
+$raio-grande: 1.8em;
+$ponto-quebra: 980px;
+$mq-mobile: "(max-width: 980px)";
+
+$tamanho-da-fonte-padrao: 16px;
